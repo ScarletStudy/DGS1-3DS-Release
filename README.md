@@ -23,8 +23,8 @@ How to build the Game Update
 4) Extract the archive with the patcher and the IRIS file to a folder on your computer
 
 4) Transfer the following files from your SDCard to the folder you extracted the patcher and the IRIS file to:
-	sd:/gm9/out/000400000014AD00_v00.cia  
-	sd:/gm9/out/UI_cmn_eng.arc  
+	* sd:/gm9/out/000400000014AD00_v00.cia  
+	* sd:/gm9/out/UI_cmn_eng.arc  
 
 
 5) Rename UI_cmn_eng.arc to dd_font.bin
