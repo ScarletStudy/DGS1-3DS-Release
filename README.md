@@ -16,14 +16,15 @@ How to build the Game Update
 	USA Full: 00040000 > 000F1400  
 	USA Demo: 00040002 > 000F1401  
 	
-	\> content > 00000000.app > NCCH image options... > Mount image to drive > romfs > archive > UI_cmn_eng.arc > Copy to 0:/gm9/out
+	\> content > 00000000.app > NCCH image options... > Mount image to drive > romfs > archive > UI_cmn_eng.arc > Copy to 0:/gm9/out  
+	Note: sd:/gm9/out/ may be sd:/gm9out/ for earlier versions of GodMode9
 
 4) Extract the archive with the patcher and the IRIS file to a folder on your computer
 
 4) Transfer the following files from your SDCard to the folder you extracted the patcher and the IRIS file to:
 	* sd:/gm9/out/000400000014AD00_v00.cia  
 	* sd:/gm9/out/UI_cmn_eng.arc  
-	Note: sd:/gm9/out/ may be sd:/gm9out/ for earlier versions of GodMode9
+
 
 5) Rename UI_cmn_eng.arc to dd_font.bin
 
