@@ -23,6 +23,7 @@ How to build the Game Update
 4) Transfer the following files from your SDCard to the folder you extracted the patcher and the IRIS file to:
 	* sd:/gm9/out/000400000014AD00_v00.cia  
 	* sd:/gm9/out/UI_cmn_eng.arc  
+	Note: sd:/gm9/out/ may be sd:/gm9out/ for earlier versions of GodMode9
 
 5) Rename UI_cmn_eng.arc to dd_font.bin
 
