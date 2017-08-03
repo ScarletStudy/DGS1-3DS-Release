@@ -3,7 +3,7 @@ The Great Ace Attorney - English Translation Patch
 
 Please feel free to log typos and errors in the issues page.
 
-How to build the Game Update
+**How to build the Game Update**
 
 Note: Make sure Luma3ds is updated to the latest version.
 
