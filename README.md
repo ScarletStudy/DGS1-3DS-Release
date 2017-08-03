@@ -16,7 +16,8 @@ How to build the Game Update
 	USA Full: 00040000 > 000F1400  
 	USA Demo: 00040002 > 000F1401  
 	
-	\> content > 00000000.app > NCCH image options... > Mount image to drive > romfs > archive > UI_cmn_eng.arc > Copy to 0:/gm9/out  
+	\> content > 00000000.app > NCCH image options... > Mount image to drive > romfs > archive > UI_cmn_eng.arc > Copy to 0:/gm9/out
+
 	Note: sd:/gm9/out/ may be sd:/gm9out/ for earlier versions of GodMode9
 
 4) Extract the archive with the patcher and the IRIS file to a folder on your computer
