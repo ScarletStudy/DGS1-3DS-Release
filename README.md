@@ -1,7 +1,7 @@
 The Great Ace Attorney - English Translation Patch
 ============================
 
-Note: Make sure to Luma3ds is updated to the latest version.
+Note: Make sure Luma3ds is updated to the latest version.
 
 How to build the Game Update
 
