@@ -1,9 +1,11 @@
 The Great Ace Attorney - English Translation Patch
 ============================
 
-Note: Make sure Luma3ds is updated to the latest version.
+Please feel free to log typos and errors in the issues page.
 
 How to build the Game Update
+
+Note: Make sure Luma3ds is updated to the latest version.
 
 1) Start GodMode9 (on Luma3DS/B9S - hold START while booting your 3DS and choose GodMode9)
 
