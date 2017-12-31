@@ -6,7 +6,9 @@ Please feel free to log typos and errors in the issues page.
 **How to build the Game Update**
 
 **>> IF YOU ALREADY MADE THE EPISODE 1 CIA, YOU CAN SKIP STEP 1-5!**
+
 **>> Just use** 000400000014AD00_v00.cia **and** dd_font.bin **from last time**
+
 **>> You should still create a new folder, since the EXE and BAT files were updated**
 
 Note: Make sure Luma3DS and FBI are updated to the latest version.
