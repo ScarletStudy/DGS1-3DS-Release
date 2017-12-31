@@ -5,7 +5,11 @@ Please feel free to log typos and errors in the issues page.
 
 **How to build the Game Update**
 
-Note: Make sure Luma3ds is updated to the latest version.
+**>> IF YOU ALREADY MADE THE EPISODE 1 CIA, YOU CAN SKIP STEP 1-5!**
+**>> Just use** 000400000014AD00_v00.cia **and** dd_font.bin **from last time**
+**>> You should still create a new folder, since the EXE and BAT files were updated**
+
+Note: Make sure Luma3DS and FBI are updated to the latest version.
 
 1) Start GodMode9 (on Luma3DS/B9S - hold START while booting your 3DS and choose GodMode9)
 
@@ -33,10 +37,10 @@ Note: Make sure Luma3ds is updated to the latest version.
 
 5) Rename UI_cmn_eng.arc to dd_font.bin
 
-6) Double-click PATCH_DGS.bat (maybe it's only displayed as PATCH_DGS on your computer) to generate DGS_Episode1_Update.cia
+6) Double-click PATCH_DGS.bat (maybe it's only displayed as PATCH_DGS on your computer) to generate DGS_Episode2_Update.cia
 
-7) Transfer DGS_Episode1_Update.cia to your SDCard and install it with FBI
+7) Transfer DGS_Episode2_Update.cia to your SDCard and install it with FBI
 
 8) Run The Great Ace Attorney from your Game Card - sorry, the Banner can not be translated via Game Update, but the e-Manual is (partially) in English :)
 
-August 2017, Scarlet Study
+New Years 2018, Scarlet Study
