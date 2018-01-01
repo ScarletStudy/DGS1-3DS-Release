@@ -17,7 +17,7 @@ Note: Make sure Luma3DS and FBI are updated to the latest version before startin
 
 2) Get a decrypted CIA of your game:
 	* Physical Copy: [C:] GAMECART > select 000400000014AD00_v00.3ds > NCSD image options... > Build CIA from file
-	* eShop Copy: [A:] SYSNAND SD > title > 00040000 > 0014AD00 > select the .tmd file > TMD file options... > Build CIA from file
+	* eShop Copy: [A:] SYSNAND SD > title > 00040000 > 0014AD00 > select the .tmd file > TMD file options... > Build CIA (standard)
 
 3) Get the Dual Destinies font:	(you can skip this if you've previously dumped the font archive for our Demo or Episode 1 release)
 	[A:] SYSNAND SD > title >
