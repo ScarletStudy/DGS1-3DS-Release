@@ -34,7 +34,7 @@ Note: Make sure Luma3DS and FBI are updated to the latest version before startin
 4) Extract the archive with the patcher and the IRIS file to a folder on your computer
 
 5) Transfer the following files from your SD card to the folder you extracted the patcher and the IRIS file to:
-	* sd:/gm9/out/000400000014AD00_v00.cia OR sd:/gm9/out/000400000014AD00.cia
+	* sd:/gm9/out/000400000014AD00_v00.cia OR sd:/gm9/out/000400000014AD00.cia (in which case it **must** be renamed to 000400000014AD00_v00.cia)
 	* sd:/gm9/out/UI_cmn_eng.arc
 
 
