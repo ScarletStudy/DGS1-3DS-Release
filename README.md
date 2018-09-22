@@ -3,11 +3,15 @@ The Great Ace Attorney - English Fan Translation Patch for Dai Gyakuten Saiban
 
 Please feel free to log typos and errors in the issues page.
 
+
 Note: Make sure Luma3DS and FBI are updated to the latest version before starting.
+
 If you are on **Luma3DS 7.1**, follow these instructions to update: https://3ds.hacks.guide/updating-b9s
+
 If you are on **Luma3DS 7.0.5 or lower**, follow these instructions: https://3ds.hacks.guide/a9lh-to-b9s
 
-You also must have either a physical DGS cartridge inserted or a digital DGS copy installed to your 3DS.
+
+You must have either a physical DGS cartridge inserted or a digital DGS copy installed to your 3DS.
 
 1) Download the latest release from this repository: https://github.com/ScarletStudy/DGS1-3DS-Release/releases/latest
 
