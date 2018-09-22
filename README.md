@@ -23,6 +23,6 @@ You must have either a physical DGS cartridge inserted or a digital DGS copy ins
 
 5) Launch FBI and navigate to SD:/3DS/ScarletStudy/DGS1-English-v2.X.X.cia, then install it.
 
-9) You may now run The Great Ace Attorney on your console.
+You may now run The Great Ace Attorney on your console, and will only need to repeat these steps to install a new update.
 
 Unfortunately, the Banner can not be translated via a Game Update. The eManual is in English, however.
