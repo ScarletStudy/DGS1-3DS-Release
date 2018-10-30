@@ -19,6 +19,8 @@ You must have either a physical DGS cartridge inserted or a digital DGS copy ins
 4. Patching will take about two minutes. After it is complete, press A again and your 3DS will restart.
 5. Launch FBI and navigate to SD:/3DS/ScarletStudy/DGS1-English-v2.X.X.cia, then install it.
 
+### **DO NOT INSTALL THE PATCHER TO YOUR FIRM PARTITION. IF YOU END UP IN GODMODE9 IN STEP 3, YOU DID SOMETHING WRONG!**
+
 You may now run The Great Ace Attorney on your console, and will only need to repeat these steps to install a new update.
 
 Unfortunately, the Banner can not be translated via a Game Update. The eManual is in English, however.
