@@ -19,7 +19,7 @@ You must have either a physical DGS cartridge inserted or a digital DGS copy ins
 
 1. Download the latest release from this repository: https://github.com/ScarletStudy/DGS1-3DS-Release/releases/latest
 2. Extract the release to the root of your 3DS SD Card.
-3. Hold START while booting your 3DS and choose DGS1-Patcher from the menu. **Make sure you see the Great Ace Attorney logo on the top screen before you proceed - if you don't see it, start over or ask on Discord**, then press A to begin patching. If you don't see the Great Ace Attorney logo on the top screen, you probably booted into GodMode9 or a different payload by mistake. Turn off your 3DS and try again.
+3. Hold START while booting your 3DS and choose `DGS1-Patcher` from the menu. **Make sure you see the Great Ace Attorney logo on the top screen before you proceed - if you don't see it, start over or ask on Discord**, then press A to begin patching. If you don't see the Great Ace Attorney logo on the top screen, you probably booted into GodMode9 or a different payload by mistake. Turn off your 3DS and try again.
 4. Patching will take about two minutes. After it is complete, press A again and your 3DS will restart.
 5. Launch FBI and navigate to `SD:/3DS/ScarletStudy/DGS1-English-v2.X.X.cia`, then install it.
 
