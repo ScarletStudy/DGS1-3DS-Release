@@ -4,7 +4,7 @@ The Great Ace Attorney - English Fan Translation Patch for Dai Gyakuten Saiban
 Please feel free to log typos and errors in the issues page.
 
 
-We require Luma3DS 7.2 or above. You can check this version by holding SELECT when powering on the console.
+We require Luma3DS 7.2 or above. You can check this version by holding SELECT when powering on the console. **Luma3DS will remove the region lock on your 3DS, so any region 3DS will be able to play this game!**
 
 * If you do not have Luma3DS installed, follow this guide to install it: https://3ds.hacks.guide/get-started
 * If you are on **Luma3DS 7.0.5 or lower**, follow these instructions: https://3ds.hacks.guide/a9lh-to-b9s
