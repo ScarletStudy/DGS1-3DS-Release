@@ -9,6 +9,7 @@ We require Luma3DS 7.2 or above. You can check this version by holding SELECT wh
 * If you do not have Luma3DS installed, follow this guide to install it: https://3ds.hacks.guide/get-started
 * If you are on **Luma3DS 7.0.5 or lower**, follow these instructions: https://3ds.hacks.guide/a9lh-to-b9s
 * If you are on **Luma3DS 7.1**, follow these instructions to update: https://3ds.hacks.guide/updating-b9s
+* If you are on **Luma3DS 7.2** or above, you can proceed.
 
 
 You must have either a physical DGS cartridge inserted or a digital DGS copy installed to your 3DS.
