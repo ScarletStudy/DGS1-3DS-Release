@@ -19,4 +19,6 @@ assignees: ''
 
 ### Your issue
 
+_In case of a crash, please attach the corresponding crashdump (likely the newest file in `sd:/luma/dumps/arm11/`)_
+
 **Please describe the issue you are experiencing:**
