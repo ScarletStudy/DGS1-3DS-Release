@@ -15,7 +15,7 @@ We require Luma3DS 7.2 or above. You can check this version by holding SELECT wh
 You must have either a physical DGS cartridge inserted or a digital DGS copy installed to your 3DS.
 
 **It is very important that you follow this guide and do not experiment on your own if something goes wrong. Make sure you see the DGS logo on the top screen in Step 3.**
-*If you follow this guide and do not experiment, this is **perfectly safe**. Ask on the FTI Discord (https://discord.gg/3nYQ9aG) in #dai-gyakuten-saiban if you need help or assistance.*
+*If you follow this guide and do not experiment, this is **perfectly safe**. Ask on the FTI Discord (https://discord.gg/fXfd8g) in #dai-gyakuten-saiban if you need help or assistance. Make sure to read the #rules, especially the one concerning piracy.*
 
 1. Download the latest release from this repository: https://github.com/ScarletStudy/DGS1-3DS-Release/releases/latest
 2. Extract the release to the root of your 3DS SD Card. `DGS1-Patcher.firm` goes into `sd:/luma/payloads/`, `DGS1-PatchData-v2.X.X.bps` goes into `sd:/3DS/ScarletStudy/`.
